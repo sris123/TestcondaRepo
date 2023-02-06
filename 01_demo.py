@@ -38,4 +38,5 @@ def seqstring (s):
 
 s = input("Enter the string : ")
 print(seqstring(s))
+print("Hi")
 
